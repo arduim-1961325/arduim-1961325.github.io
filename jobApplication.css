@@ -1,0 +1,63 @@
+body{
+    background-image: url(halftone-yellow.png);
+    font-family: "Courier New";
+}
+
+h2{
+    color: rgb(161, 73, 1);
+    font-size: 55px;
+    font-weight: bolder;
+    font-family: "Courier New";
+    margin-bottom: 10px;
+    border: 4px solid rgb(161, 73, 1);
+    text-align: center;
+    background-color: rgb(252, 183, 119);
+}
+
+h5{
+    text-align: center;
+}
+
+fieldset{
+    background-color: rgb(255, 216, 177);
+    border: 2px solid rgb(161, 73, 1);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+legend{
+    color: rgb(161, 73, 1);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+label{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding-left: 10px;
+}
+
+li{
+    padding-left: 1px;
+}
+
+table{
+    border: 1px solid rgb(255, 216, 177);
+    background-color: rgb(252, 237, 223);
+    text-align: center;
+}
+
+textarea{
+    background-color:rgb(252, 237, 223);
+}
+
+p{
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+
+
